@@ -1,4 +1,7 @@
 # ring-alarm-ha-integration
+
+just a clone so I can play
+
 HASSIO addon based on the excellent work done by https://github.com/tsightler/ring-alarm-mqtt
 No code changed from that plugin.  <br /> 
 Docker has nodeJS, git (for pulling the source code) and npm <br /> 
