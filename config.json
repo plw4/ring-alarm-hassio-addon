@@ -33,7 +33,7 @@
     "mqtt_pass": "str",
     "ring_user": "str",
     "ring_pass": "str"
-    "ring_token": "",
-    "location_ids": [""]    
+    "ring_token": "str",
+    "location_ids": ["str"]    
   }
 }
